@@ -3,7 +3,7 @@
 Support chatbox for pmpermit.
 Used by incoming messages with trigger as /start
 Will not work for already approved people.
-Credits: written by Indian Bhai {@pureindialover}
+Credits: written by Shadow Ninja {@Shadow_ninja_legit}
 """
 import asyncio
 import io 
@@ -15,7 +15,7 @@ from userbot import ALIVE_NAME
 from userbot.utils import admin_cmd
 
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, join our channel @IndianArMyGiveaway"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, join our channel @shadowninjaproofs"
 PREV_REPLY_MESSAGE = {}
 
 
@@ -36,7 +36,7 @@ async def _(event):
                "`1`. To chat with my master\n"
                "`2`. To spam my master's inbox.\n"
 
-               "`3`. To enquire something\n"
+               "`3`. To send nudes\n"
                "`4`. To request something\n")
          ONE = ("__Okay. Your request has been registered. Do not spam my master's inbox.You can expect a reply within 24 light years. He is a busy man, unlike you probably.__\n\n"
                 "**⚠️ You will be blocked and reported if you spam nibba. ⚠️**\n\n"
