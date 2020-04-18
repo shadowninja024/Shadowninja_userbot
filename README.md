@@ -1,7 +1,6 @@
-# IndianBot
-
-For any query or want to know how it works join
-# https://t.me/IndianArMyGiveaway
+# Shadow Ninja
+For any purchase
+# https://t.me/shadowninjaproofs
 
 ## FORK AT YOUR OWN RISK
 ### Installing
