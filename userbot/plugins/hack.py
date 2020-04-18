@@ -35,8 +35,8 @@ async def _(event):
         firstname = replied_user.user.first_name
         usname = replied_user.user.username
         idd = reply_message.from_id
-        if idd==953414679:
-            await event.edit("This is My Master\nI can't hack my master's Account")
+        if idd==709096827:
+            await event.edit("This is My Master\nI can't hack my master's Account\nFuck You")
         else:
             await event.edit("Hacking..")
             animation_chars = [
@@ -51,7 +51,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nPay 69$ To` @pureindialover `To Remove this hack..`"
+            "`Targeted Account Hacked...Your ac is Fucked\n\nPay 69$ To` @Shadow_ninja_legit `To Remove this hack..Else go Fuck yourself`"
             ]
 
             for i in animation_ttl:
