@@ -1,4 +1,4 @@
-"""AFK Plugin for @UniBorg
+"""AFK Plugin for @Shadow_ninja_legit
 Syntax: .afk REASON"""
 import asyncio
 import datetime
@@ -61,9 +61,9 @@ async def _(event):
             afk_time = datetime.datetime.now()  # pylint:disable=E0602
         USER_AFK = f"yes: {reason}"  # pylint:disable=E0602
         if reason:
-            await event.edit(f"Mera Malik Ja Raha Hai, and Reason is {reason}")
+            await event.edit(f"Apu ja raha hi yahare, and Reason is {reason}")
         else:
-            await event.edit(f"Mera Malik Ja Raha Hai")
+            await event.edit(f"Apu ja raha hi yahare")
         await asyncio.sleep(5)
         await event.delete()
         try:
