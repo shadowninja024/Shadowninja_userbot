@@ -13,8 +13,8 @@ For any purchase
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
-cd Indianbot
+git clone https://github.com/shadowninja024/Shadowninja_userbot
+cd Shadowninja_userbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
